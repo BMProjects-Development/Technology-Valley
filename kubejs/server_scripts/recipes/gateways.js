@@ -17,7 +17,7 @@ ServerEvents.recipes(event => {
 	
 	
 	event.shaped(
-	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:first_part"]'), 
+	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:aether_first_part"]'), 
 	  [
 	    ' B ',
 		'BAB',
@@ -31,7 +31,7 @@ ServerEvents.recipes(event => {
 	
 	
 	event.shaped(
-	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:second_part"]'), 
+	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:aether_second_part"]'), 
 	  [
 	    ' B ',
 		'BAB',
@@ -45,7 +45,7 @@ ServerEvents.recipes(event => {
 	
 	
 	event.shaped(
-	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:third_part"]'), 
+	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:aether_third_part"]'), 
 	  [
 	    ' B ',
 		'BAB',

@@ -457,8 +457,8 @@
 			dependencies: ["3EE93DF41FD527C1"]
 			id: "1920D60DDB5A8E49"
 			tasks: [{
-				id: "767D751167546778"
-				item: { components: { "gateways:gateway": "gateways:first_part" }, count: 1, id: "gateways:gate_pearl" }
+				id: "3567FC7638793E61"
+				item: { components: { "gateways:gateway": "gateways:aether_first_part" }, count: 1, id: "gateways:gate_pearl" }
 				type: "item"
 			}]
 			x: 9.5d
@@ -692,8 +692,8 @@
 			dependencies: ["3EE93DF41FD527C1"]
 			id: "31452D41F9118669"
 			tasks: [{
-				id: "046D838896071AE2"
-				item: { components: { "gateways:gateway": "gateways:second_part" }, count: 1, id: "gateways:gate_pearl" }
+				id: "1C661EA8C40A5D18"
+				item: { components: { "gateways:gateway": "gateways:aether_second_part" }, count: 1, id: "gateways:gate_pearl" }
 				type: "item"
 			}]
 			x: 9.5d
@@ -983,8 +983,8 @@
 			id: "23C1C74CAFBB500C"
 			tasks: [
 				{
-					id: "3EDC1563B07573B0"
-					item: { components: { "gateways:gateway": "gateways:third_part" }, count: 1, id: "gateways:gate_pearl" }
+					id: "69272DB418B3BA7A"
+					item: { components: { "gateways:gateway": "gateways:aether_third_part" }, count: 1, id: "gateways:gate_pearl" }
 					type: "item"
 				}
 				{

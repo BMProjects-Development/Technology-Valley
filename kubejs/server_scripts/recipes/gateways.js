@@ -58,4 +58,21 @@ ServerEvents.recipes(event => {
 	)
 	
 	
+	event.shaped(
+	  Item.of('gateways:gate_pearl[gateways:gateway="gateways:undergarden_first_part"]'), 
+	  [
+	    'DBE',
+		'BAB',
+		'EBC'
+	  ], 
+	  {
+		A: 'naturesaura:token_joy',
+		B: '#c:ingots/brass',
+		C: 'undergarden:rogdorium',
+		D: 'undergarden:utheric_cluster',
+		E: 'undergarden:forgotten_nugget'
+	  }
+	)
+	
+	
 })

@@ -3,15 +3,15 @@
   "heat_requirement": "heated",
   "ingredients": [
     {
-      "item": "create:brass_ingot"
+      "item": "minecraft:iron_ingot"
     },
     {
-      "item": "technologyvalley:fire_iron"
+      "item": "minecraft:ink_sac"
     }
   ],
   "results": [
     {
-	  "count": 2,
+	  "count": 1,
       "id": "extendedcrafting:black_iron_ingot"
       
     }

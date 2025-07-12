@@ -248,7 +248,7 @@
 			y: -2.0d
 		}
 		{
-			dependencies: ["0A6E9E537C1DB3EC"]
+			dependencies: ["1A804FD28E87087A"]
 			id: "72928775040CDA96"
 			tasks: [
 				{
@@ -546,11 +546,13 @@
 			y: 1.0d
 		}
 		{
+			dependencies: ["0A6E9E537C1DB3EC"]
 			id: "1A804FD28E87087A"
 			tasks: [
 				{
-					id: "0B54F16D47895D52"
-					type: "checkmark"
+					id: "73203900AC1557C8"
+					item: { components: { "gateways:gateway": "gateways:undergarden_first_part" }, count: 1, id: "gateways:gate_pearl" }
+					type: "item"
 				}
 				{
 					id: "5631FFE098424B43"

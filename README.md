@@ -9,13 +9,15 @@
 </p>
 
 # Technology Valley
-<b>Technology Valley</b> is an expert tech-focused modpack developed by BMProjects, where raw engineering meets the forgotten secrets of the past. In this world, you will evolve from a basic survivor into the ultimate technological pioneer, learning from the data of an ancient civilization. Your goal is to construct massive automated networks, harness unique energetic forces, and unlock advanced industrial tiers. <b>Technology Valley</b> features a highly specialized and balanced progression system driven by hundreds of meticulously crafted quests, complex automation components, and heavily modified recipes. Welcome to the valley - it's time to build the future! <br/>
+<b>Technology Valley</b> is an expert tech-focused modpack developed by BMProjects, where raw engineering meets a completely inverted progression of worlds. In this pack, your journey begins not on familiar ground, but high up in the clouds of the heavenly <b>Aether (Paradise)</b> dimension. To advance and unlock the technology of the future, you must break the traditional rules of survival: descend into the dark, prehistoric depths of the <b>Undergarden</b>, and only after conquering these strange realms will you finally pave your way down to the <b>Overworld</b>. <b>Technology Valley</b> features a highly specialized and balanced progression system driven by hundreds of meticulously crafted quests, complex automation components, and heavily modified recipes. Welcome to the valley - it's time to rebuild the future from the heavens down! <br/>
 
 # Features
 ### <b>Progression and Balance</b>
-- <b>Data-Driven Tech Tiers</b>: Progress through distinct technological eras. Unlocking higher tiers requires analyzing ancient data tablets, decoding lost blueprints, and manufacturing specialized industrial components.
+- <b>Inverted World Progression</b>: Forget everything you know about Minecraft. Start your journey in the skies of Paradise (The Aether), fight through the twilight depths of the Undergarden, and earn your right to step onto the surface of the Overworld!
 
-- <b>Interconnected Automation</b>: Overhaul your approach to automation with hundreds of heavily modified recipes that weave diverse tech systems into one flawlessly balanced, logical progression tree.
+- <b>Data-Driven Tech Tiers</b>: Progress through distinct technological eras. Unlocking higher tiers requires analyzing ancient data tablets, decoding lost blueprints, and manufacturing specialized industrial components hidden within different dimensions.
+
+- <b>Interconnected Automation</b>: Overhaul your approach to automation with hundreds of heavily modified recipes that weave diverse tech systems and dimensional resources into one flawlessly balanced, logical progression tree.
 
 - <b>Guided Questline</b>: A comprehensive and detailed quest book acts as your engineering manual, breaking down complex automation chains and guiding you from basic machinery to advanced late-game logistics.
 
@@ -27,7 +29,7 @@
 - <b>Config & Performance Optimization</b>: Countless configuration files and scripts have been manually fine-tuned to ensure all industrial networks operate in perfect harmony, providing a smooth experience even for massive automated factories.
 
 ### <b>Engineering & Advanced Systems</b>
-- <b>Advanced Ore Processing</b>: Build multi-stage refining pipelines that maximize your resource yields. The more advanced your factory infrastructure, the more efficiently you extract precious minerals.
+- <b>Advanced Ore Processing</b>: Build multi-stage refining pipelines that maximize your resource yields. The more advanced your factory infrastructure, the more efficiently you extract precious minerals found across the dimensions.
 
 - <b>Seamless Logistics Networks</b>: Master the flow of production using unified routing systems. Interconnect your assembly lines with precise nodes, filters, and high-speed wires for items, fluids, and raw power.
 

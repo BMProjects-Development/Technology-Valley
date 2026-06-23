@@ -9,7 +9,7 @@
 </p>
 
 # Technology Valley
-<b>Technology Valley</b> is an expert tech-focused modpack developed by BMProjects, where raw engineering meets the forgotten secrets of the past. In this world, you will evolve from a basic survivor into the ultimate technological pioneer, learning from the data of an ancient civilization. Your goal is to construct massive automated networks, harness unique energetic forces, and unlock advanced industrial tiers. <b>Technology Valley</b> features a highly specialized and balanced progression system driven by hundreds of meticulously crafted quests, complex automation components, and heavily modified recipes. Welcome to the valley—it's time to build the future! <br/>
+<b>Technology Valley</b> is an expert tech-focused modpack developed by BMProjects, where raw engineering meets the forgotten secrets of the past. In this world, you will evolve from a basic survivor into the ultimate technological pioneer, learning from the data of an ancient civilization. Your goal is to construct massive automated networks, harness unique energetic forces, and unlock advanced industrial tiers. <b>Technology Valley</b> features a highly specialized and balanced progression system driven by hundreds of meticulously crafted quests, complex automation components, and heavily modified recipes. Welcome to the valley - it's time to build the future! <br/>
 
 # Features
 ### <b>Progression and Balance</b>

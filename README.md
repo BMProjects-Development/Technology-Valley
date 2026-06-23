@@ -35,8 +35,7 @@
 
 
 # Download
-[CurseForge](https://www.curseforge.com/minecraft/modpacks/technology-valley) <br/>
-[Google Disk](https://drive.google.com/file/d/1SydoxqWpQkR58RRP-CqnIyCesp5Lx30z/view?usp=drive_link)
+[CurseForge](https://www.curseforge.com/minecraft/modpacks/technology-valley)
 
 # Contacts & Supports
 [Telegram](https://t.me/BMProjects) <br/>
